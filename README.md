@@ -36,7 +36,7 @@ The genome was successfully assembled and annotated, identifying coding sequence
 This workflow can be extended to comparative genomics and bacterial genome analysis.
 
 ## Project Report
-📄 The complete project report is available in this repository as **De_Novo_Genome_Assembly_Report.pdf**.
+ The complete project report is available in this repository as **De_Novo_Genome_Assembly_Report.pdf**.
 
 ## Author
 **Ishita**
