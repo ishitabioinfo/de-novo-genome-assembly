@@ -35,6 +35,12 @@ The genome was successfully assembled and annotated, identifying coding sequence
 ## Future Scope
 This workflow can be extended to comparative genomics and bacterial genome analysis.
 
+## Future Scope
+This workflow can be extended to comparative genomics and bacterial genome analysis.
+
+## Project Report
+📄 The complete project report is available in this repository as **De_Novo_Genome_Assembly_Report.pdf**.
+
 ## Author
 **Ishita**
 M.Sc. Bioinformatics
